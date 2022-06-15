@@ -20,4 +20,4 @@ while let x = readLine(){
     }
     counter = 0
 }
-print(sum)s
+print(sum)
